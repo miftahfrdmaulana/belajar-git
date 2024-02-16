@@ -1,3 +1,5 @@
 RENCANA KEGIATAN FRD:
 - Belajar
 - Lanjut project
+  +Project yang dilanjut adalah project js bookshelf
+  +Yang harus dilanjutkan adalah membuat tombole delete per buku yang ada
