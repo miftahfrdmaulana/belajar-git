@@ -1,0 +1,4 @@
+Fungsi repository ini:
+- Repository ini saya gunakan untuk belajar git dan github
+- Demi kelancaran proses studi independen
+- Dan untuk mengelola project saya kedepannya
