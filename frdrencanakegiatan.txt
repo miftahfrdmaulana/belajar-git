@@ -4,3 +4,6 @@ RENCANA KEGIATAN FRD:
   +Project yang dilanjut adalah project js bookshelf
   +Yang harus dilanjutkan adalah membuat tombole delete per buku yang ada
   +Make it look better
+  +Langsung saja make bootstrap atau tailwind css
+- Belajar framework JS
+
